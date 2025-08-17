@@ -23,3 +23,25 @@ As a Java enthusiast, (and also it's my family name :laughing: ) I use this spac
    ```diff
    - These are practice implementations -
    + Not optimized or enterprise-grade solutions +
+3.  **Hobby Project**
+    
+    > "Programming isn't about typing, it's about thinking."  
+    > ― Rich Hickey
+    
+    This is purely a passion project maintained during my free time.
+    
+4.  **Varied Quality**  
+    Expect inconsistent:
+    
+    -   Coding styles
+        
+    -   Documentation levels
+        
+    -   Implementation approaches  
+        _(I'm experimenting as I learn! please don't judge me, though I accept constructive critisism :innocent:)_
+
+---
+**Note to Visitors**:  
+This repository represents my personal learning journey. The code is shared for educational reference only.
+
+_"First, solve the problem. Then, write the code."_  - John Johnson
