@@ -1,0 +1,31 @@
+# Compiled Java classes
+*.class
+
+# Build directories
+target/    # Maven
+build/     # Gradle
+bin/       # Eclipse
+out/       # IntelliJ
+
+# Dependency directories
+lib/
+*.jar
+*.war
+*.ear
+
+# IDE files
+.idea/
+*.iml
+*.ipr
+*.iws
+.classpath
+.project
+.settings/
+.vscode/
+
+# Log files
+*.log
+
+# System files
+.DS_Store
+Thumbs.db 
