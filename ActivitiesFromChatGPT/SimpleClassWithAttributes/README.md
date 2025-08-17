@@ -103,6 +103,7 @@ public class Book {
   public void updateYear ( int newYear ) {
     this.year = newYear;
   }
+}
 ```
 ---
 ### Sample Output:
