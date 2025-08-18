@@ -109,4 +109,4 @@ public class UseAnimals {
 ```
 ---
 ### Sample Output:
-![sample output]()
+- ![sample output](https://github.com/zoreladrean/Java-language-codes/blob/main/AbstractClassSample/sampleOutput.PNG)
