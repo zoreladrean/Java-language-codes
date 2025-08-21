@@ -7,3 +7,7 @@ public class Main {
     s.introduce();
   }
 }
+
+// In your main: Create one Person and one Student object.
+// Call introduce() on both.
+// Observe how the same method name behaves differently (polymorphism through inheritance).
