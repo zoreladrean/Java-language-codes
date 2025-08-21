@@ -15,3 +15,8 @@ public class Person {
     System.out.println( "Hi, my name is " + name + " and I am " + age + " years old." );
   }
 }
+
+
+// Create a base class Person with:
+// Attributes: name (String), age (int)
+// Method: introduce() → prints: Hi, my name is <name> and I am <age> years old.
