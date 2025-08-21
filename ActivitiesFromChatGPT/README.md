@@ -7,8 +7,8 @@ This directory contains Java exercises and solutions created with assistance fro
 ## Content Overview
 | File | Description |
 |------|-------------|
-| `Book.java` | OOP exercise with book management |
-| *(More files will appear here)* | *(As activities are added)* |
+| `Simple class with attributes` | OOP exercise with simple book management |
+| `Inheritance practice` | OOP exercise with inheritance, method overriding and polymorphism |
 
 ##  How to Use
 1. Browse activity files
