@@ -10,6 +10,6 @@ Output:
 -   The program should output the big asterisk pattern with the specified height.
 ---
 ### Sample Outputs: 
-- ![sample output 1]()
-- ![sample output 2]()
-- ![sample output 3]()
+- ![sample output 1](https://github.com/zoreladrean/Java-language-codes/blob/main/ActivitiesFromSchool/BigAsteriskPatternGenerator/images/sampleOutput1.PNG)
+- ![sample output 2](https://github.com/zoreladrean/Java-language-codes/blob/main/ActivitiesFromSchool/BigAsteriskPatternGenerator/images/sampleOutput2.PNG)
+- ![sample output 3](https://github.com/zoreladrean/Java-language-codes/blob/main/ActivitiesFromSchool/BigAsteriskPatternGenerator/images/sampleOutput3.PNG)
