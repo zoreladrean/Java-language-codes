@@ -37,6 +37,6 @@ Diameter of the shape: {diameter}
 ```
 ---
 ### Sample Outputs: 
-- ![sample output 1]()
-- ![sample output 2]()
-- ![sample output 3]()
+- ![sample output 1](https://github.com/zoreladrean/Java-language-codes/blob/main/ActivitiesFromSchool/BasicShapeInheritance/src/sampleOutput1.PNG)
+- ![sample output 2](https://github.com/zoreladrean/Java-language-codes/blob/main/ActivitiesFromSchool/BasicShapeInheritance/src/sampleOutput2.PNG)
+- ![sample output 3](https://github.com/zoreladrean/Java-language-codes/blob/main/ActivitiesFromSchool/BasicShapeInheritance/src/sampleOutput3.PNG)
