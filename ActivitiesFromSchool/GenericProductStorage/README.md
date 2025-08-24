@@ -1,18 +1,22 @@
-## Getting Started
+# Generic Product Storage
+Implement the ff:
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+-   `**class Product**`with generic type  `**<P>**`  
+    -   `**private**`variable  `p`with type  `P`
+    -   setter and getter for`**p**`
+    -   Override  `**public String toString()**`inherited from Object class:  
+        -   should return  `"{p's class}: {p's String version}"`
+        -   You can use the  `**getClass()**`and  `**toString()**`  methods that are present in all objects.
+-   `class Pen`  
+    -   Override  `**public String toString()**`inherited from Object class:  
+        -   should return  `"I got a Pen"`
+-   `class Apple`  
+    -   Override  `**public String toString()**`inherited from Object class:  
+        -   should return  `"I got a Apple"`
+-   `class Pineapple`  
+    -   Override  `**public String toString()**`inherited from Object class:  
+        -   should return  `"Pineapple Pen"`
+---
+### Sample Outputs: 
+- ![sample output 1](https://github.com/zoreladrean/Java-language-codes/blob/main/ActivitiesFromSchool/GenericProductStorage/images/sampleOutput1.PNG)
+- ![sample output 2](https://github.com/zoreladrean/Java-language-codes/blob/main/ActivitiesFromSchool/GenericProductStorage/images/sampleOutput2.PNG)
