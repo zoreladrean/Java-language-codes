@@ -14,6 +14,8 @@ public class Main {
     else
       if ( c == 2 )
         test2 ( );
+
+    s.close();
   }
 
   public static void test1 ( ) {
@@ -23,7 +25,7 @@ public class Main {
     Pineapple pa = new Pineapple();
 
     System.out.println(p);
-    System.out.println(p);
+    System.out.println(a);
     System.out.println(pa);
   }
 
