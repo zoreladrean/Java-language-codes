@@ -20,5 +20,5 @@ Implement the ff:
             -   `handle()`  and return the current data held
 ---
 ### Sample Outputs: 
-- ![sample output 1]()
-- ![sample output 2]()
+- ![sample output 1](https://github.com/zoreladrean/Java-language-codes/blob/main/ActivitiesFromSchool/Generic_Inheritance/images/sampleOutput1.PNG)
+- ![sample output 2](https://github.com/zoreladrean/Java-language-codes/blob/main/ActivitiesFromSchool/Generic_Inheritance/images/sampleOutput2.PNG)
