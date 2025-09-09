@@ -18,7 +18,7 @@
     -   `<T --- ---> void addPersonToList(ArrayList<---> list, T t)`  - a  **generic method**  with type  `T`  that can be  `Person`or it's subclasses. Adds item  `t`  to the  `ArrayList`  with a  **bounded wildcard.**
 
 Consider the relationship of the classes:
-- ![relationship of the classes]()
+- ![relationship of the classes](https://github.com/zoreladrean/Java-language-codes/blob/main/ActivitiesFromSchool/BoundedWildcardGenerics/images/b445cc0-problem_image-02-15-2025.png)
 ---
 - ### Sample Output  1
 ```text
