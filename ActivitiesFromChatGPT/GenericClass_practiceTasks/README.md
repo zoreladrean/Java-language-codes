@@ -74,3 +74,48 @@ public class Main {
     }
 }
 ```
+### Java Generics Concepts Demonstrated:
+
+1.  **Generic Classes**
+    
+    -   Box class uses type parameter `<T>`
+        
+    -   Can be instantiated with any reference type
+        
+2.  **Type Safety**
+    
+    -   Compile-time type checking prevents ClassCastException
+        
+    -   No need for explicit casting when retrieving values
+        
+3.  **Code Reusability**
+    
+    -   Single Box class works with Boolean, Double, String, and any other type
+        
+    -   Eliminates need for multiple type-specific container classes
+        
+4.  **Generic Methods**
+    
+    -   setValue() accepts parameter of type T
+        
+    -   getValue() returns value of type T
+---
+
+### Technical Implementation
+
+### Type Parameter Naming Convention
+
+-   `T` - Type (commonly used for generic classes)
+    
+-   Other conventions: `E` (Element), `K` (Key), `V` (Value), `N` (Number)
+    
+
+### Benefits Over Non-Generic Approach
+
+-   Eliminates need for casting
+    
+-   Provides compile-time type checking
+    
+-   Reduces runtime errors
+    
+-   More readable and maintainable code
