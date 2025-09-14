@@ -102,3 +102,57 @@ public class Main {
 }
 
 ```
+---
+### Java Generics Concepts Demonstrated
+
+#### 1. Generic Methods
+
+-   Methods that can operate on different types while maintaining type safety
+    
+-   Type parameter `<T>` declared before return type
+    
+-   Compile-time type checking prevents ClassCastException
+    
+
+#### 2. Three Types of Generic Methods
+
+1.  **echo(T value)** - Consumes a parameter and performs an operation
+    
+2.  **printArray(T [ ] value)** - Works with arrays of any type
+    
+3.  **returnsBack(T value)** - Returns a value of the same type (identity function)
+    
+
+#### 3. Type Inference
+
+-   Java automatically infers the type parameter from method arguments
+    
+-   No need to explicitly specify types when calling methods
+    
+
+#### 4. Bounded vs Unbounded Generics
+
+-   These examples use unbounded type parameters `<T>`
+    
+-   Could be extended with bounded parameters: `<T extends Number>`
+    
+---
+### Method Syntax
+
+```java
+
+// Generic method syntax
+public static <TypeParameter> returnType methodName(parameters) {
+    // method body
+}
+```
+
+### Benefits Demonstrated
+
+1.  **Type Safety**: Compile-time checking prevents type errors
+    
+2.  **Code Reusability**: Single method works with multiple types
+    
+3.  **Eliminates Casting**: No need for explicit type casting
+    
+4.  **Cleaner Code**: More readable and maintainable
